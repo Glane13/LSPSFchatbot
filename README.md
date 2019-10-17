@@ -3,11 +3,17 @@ Football league chatbot developed for Master's degree dissertation
 March 2019
 
 Key technologies:
+
 JavaScript
+
 JavaScript tedious library (for connections to Azure SQL)
+
 JavaScript natural library (for Naive Bayes classifier)
+
 Microsoft Cognitive Services - LUIS language understanding (Cloud service)
+
 Microsoft Azure SQL Server using Stored Procedures (Cloud service)
+
 Twilio Programmable SMS (Cloud service)
 
 I wrote a fully functioning beta chatbot as part of the dissertation for my Master’s Degree in Web Science and Big Data at the University of Liverpool. I was awarded the degree with distinction in June 2019.
